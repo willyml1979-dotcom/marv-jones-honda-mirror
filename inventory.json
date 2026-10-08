@@ -1,6 +1,6 @@
 {
   "dealership": "Marv Jones Honda",
-  "generated_at": "2026-10-04T11:03:01",
+  "generated_at": "2026-10-08T14:41:40",
   "vehicle_count": 167,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
@@ -19,7 +19,9 @@
       "year": 2010,
       "make": "Dodge",
       "model": "RAM 1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2010 Dodge RAM 1500 ",
@@ -35,12 +37,15 @@
       "year": 2010,
       "make": "Dodge",
       "model": "RAM 1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2017 Kia Sorento AWD 4dr SX V6 7-Seaterin Maple Ridge",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "SX V6 7-Seaterin Maple Ridge",
       "url": "https://willyml1979-dotcom.github.io/marv-jones-honda-mirror/used/34702db8af4b.html",
       "source_url": "https://www.marvjoneshonda.com/used/2017-Kia-Sorento-id14350879.html",
       "dealer_url": "https://www.marvjoneshonda.com/used/2017-Kia-Sorento-id14350879.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -50,8 +55,10 @@
       "odometer_km": 106450,
       "year": 2017,
       "make": "Kia",
-      "model": "Sorento AWD 4dr SX V6 7-Seaterin Maple Ridge",
-      "condition": "used"
+      "model": "Sorento",
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2017 Kia Sorento ",
@@ -67,7 +74,9 @@
       "year": 2017,
       "make": "Kia",
       "model": "Sorento",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2017 Kia Sorento ",
@@ -83,7 +92,9 @@
       "year": 2017,
       "make": "Kia",
       "model": "Sorento",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2017 Kia Sorento ",
@@ -99,7 +110,9 @@
       "year": 2017,
       "make": "Kia",
       "model": "Sorento",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2017 Kia Sorento ",
@@ -115,12 +128,15 @@
       "year": 2017,
       "make": "Kia",
       "model": "Sorento",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2017 Nissan Frontier 4WD Crew Cab LWB Auto SVin Maple Ridge",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "LWB Auto SVin Maple Ridge",
       "url": "https://willyml1979-dotcom.github.io/marv-jones-honda-mirror/used/1887d9942256.html",
       "source_url": "https://www.marvjoneshonda.com/used/2017-Nissan-Frontier-id14366003.html",
       "dealer_url": "https://www.marvjoneshonda.com/used/2017-Nissan-Frontier-id14366003.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -130,8 +146,10 @@
       "odometer_km": 94011,
       "year": 2017,
       "make": "Nissan",
-      "model": "Frontier 4WD Crew Cab LWB Auto SVin Maple Ridge",
-      "condition": "used"
+      "model": "Frontier",
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2017 Nissan Frontier ",
@@ -147,7 +165,9 @@
       "year": 2017,
       "make": "Nissan",
       "model": "Frontier",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2017 Nissan Frontier ",
@@ -163,12 +183,15 @@
       "year": 2017,
       "make": "Nissan",
       "model": "Frontier",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2018 Audi S5 Premium Plusin Maple Ridge",
       "vin": "WAUB4CF50JA081446",
       "stock": "NUMBER",
+      "trim": "Premium Plusin Maple Ridge",
       "url": "https://willyml1979-dotcom.github.io/marv-jones-honda-mirror/used/8f1201b6fb99.html",
       "source_url": "https://www.marvjoneshonda.com/used/2018-Audi-S5-id14199384.html",
       "dealer_url": "https://www.marvjoneshonda.com/used/2018-Audi-S5-id14199384.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -178,8 +201,10 @@
       "odometer_km": 65376,
       "year": 2018,
       "make": "Audi",
-      "model": "S5 Premium Plusin Maple Ridge",
-      "condition": "used"
+      "model": "S5",
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2018 Audi S5 ",
@@ -195,7 +220,9 @@
       "year": 2018,
       "make": "Audi",
       "model": "S5",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2018 Audi S5 ",
@@ -211,12 +238,15 @@
       "year": 2018,
       "make": "Audi",
       "model": "S5",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2018 Honda HR-V EX AWD CVTin Maple Ridge",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "EX CVTin Maple Ridge",
       "url": "https://willyml1979-dotcom.github.io/marv-jones-honda-mirror/used/64cd98123005.html",
       "source_url": "https://www.marvjoneshonda.com/used/2018-Honda-HR_V-id14408780.html",
       "dealer_url": "https://www.marvjoneshonda.com/used/2018-Honda-HR_V-id14408780.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -226,8 +256,10 @@
       "odometer_km": 64547,
       "year": 2018,
       "make": "Honda",
-      "model": "HR-V EX AWD CVTin Maple Ridge",
-      "condition": "used"
+      "model": "HR-V",
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2018 Honda HR-V ",
@@ -243,7 +275,9 @@
       "year": 2018,
       "make": "Honda",
       "model": "HR-V",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2018 Honda HR-V ",
@@ -259,12 +293,15 @@
       "year": 2018,
       "make": "Honda",
       "model": "HR-V",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2018 Subaru Forester 2.5i Limited CVT w/EyeSight Pkgin Maple Ridge",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "2.5i Limited",
       "url": "https://willyml1979-dotcom.github.io/marv-jones-honda-mirror/used/4cd1e14f3174.html",
       "source_url": "https://www.marvjoneshonda.com/used/2018-Subaru-Forester-id14315343.html",
       "dealer_url": "https://www.marvjoneshonda.com/used/2018-Subaru-Forester-id14315343.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -274,8 +311,10 @@
       "odometer_km": 122000,
       "year": 2018,
       "make": "Subaru",
-      "model": "Forester 2.5i Limited CVT w/EyeSight Pkgin Maple Ridge",
-      "condition": "used"
+      "model": "Forester",
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2018 Subaru Forester ",
@@ -291,7 +330,9 @@
       "year": 2018,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2018 Subaru Forester ",
@@ -307,12 +348,15 @@
       "year": 2018,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2019 Honda Civic Type Rin Maple Ridge",
       "vin": "SHHFK8G30KU300532",
       "stock": "NUMBER",
+      "trim": "Type Rin Maple Ridge",
       "url": "https://willyml1979-dotcom.github.io/marv-jones-honda-mirror/used/46ce30396baa.html",
       "source_url": "https://www.marvjoneshonda.com/used/2019-Honda-Civic_Type_R-id14094421.html",
       "dealer_url": "https://www.marvjoneshonda.com/used/2019-Honda-Civic_Type_R-id14094421.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -322,14 +366,17 @@
       "odometer_km": 104613,
       "year": 2019,
       "make": "Honda",
-      "model": "Civic Type Rin Maple Ridge",
-      "condition": "used"
+      "model": "Civic",
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2019 Honda Civic Type R ",
       "vin": "SHHFK8G30KU300532",
       "stock": 14094421,
       "color": "{$COLOREX}",
+      "trim": "Type R",
       "url": "https://willyml1979-dotcom.github.io/marv-jones-honda-mirror/used/bf2c1c373d24.html",
       "source_url": "https://www.marvjoneshonda.com/used/2019-Honda-Civic_Type_R.html",
       "dealer_url": "https://www.marvjoneshonda.com/used/2019-Honda-Civic_Type_R.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -338,8 +385,10 @@
       "price_currency": "CAD",
       "year": 2019,
       "make": "Honda",
-      "model": "Civic Type R",
-      "condition": "used"
+      "model": "Civic",
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2019 Honda Clarity Plug-in Hybrid Touringin Maple Ridge",
@@ -353,7 +402,9 @@
       "year": 2019,
       "make": "Honda",
       "model": "Clarity Plug-in Hybrid Touringin Maple Ridge",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2019 Honda Clarity Plug-in Hybrid ",
@@ -367,12 +418,15 @@
       "year": 2019,
       "make": "Honda",
       "model": "Clarity Plug-in Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2019 Honda Pilot Exlnaviin Maple Ridge",
       "vin": "5FNYF6H79KB500295",
       "stock": "NUMBER",
+      "trim": "Exlnaviin Maple Ridge",
       "url": "https://willyml1979-dotcom.github.io/marv-jones-honda-mirror/used/6562494b24b6.html",
       "source_url": "https://www.marvjoneshonda.com/used/2019-Honda-Pilot-id14434206.html",
       "dealer_url": "https://www.marvjoneshonda.com/used/2019-Honda-Pilot-id14434206.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -382,8 +436,10 @@
       "odometer_km": 194438,
       "year": 2019,
       "make": "Honda",
-      "model": "Pilot Exlnaviin Maple Ridge",
-      "condition": "used"
+      "model": "Pilot",
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2019 Honda Pilot ",
@@ -399,13 +455,16 @@
       "year": 2019,
       "make": "Honda",
       "model": "Pilot",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2019 Honda Civic Type R ",
       "vin": "SHHFK8G30KU300532",
       "stock": 14094421,
       "color": "{$COLOREX}",
+      "trim": "Type R",
       "url": "https://willyml1979-dotcom.github.io/marv-jones-honda-mirror/new/bf2c1c373d24.html",
       "source_url": "https://www.marvjoneshonda.com/used/2019-Honda-Civic_Type_R.html",
       "dealer_url": "https://www.marvjoneshonda.com/used/2019-Honda-Civic_Type_R.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -414,8 +473,10 @@
       "price_currency": "CAD",
       "year": 2019,
       "make": "Honda",
-      "model": "Civic Type R",
-      "condition": "new"
+      "model": "Civic",
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2019 Honda Clarity Plug-in Hybrid ",
@@ -429,7 +490,9 @@
       "year": 2019,
       "make": "Honda",
       "model": "Clarity Plug-in Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2019 Honda Pilot ",
@@ -445,12 +508,15 @@
       "year": 2019,
       "make": "Honda",
       "model": "Pilot",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2019 Jeep Compass Trailhawkin Maple Ridge",
       "vin": "3C4NJDDB9KT826745",
       "stock": "NUMBER",
+      "trim": "Trailhawkin Maple Ridge",
       "url": "https://willyml1979-dotcom.github.io/marv-jones-honda-mirror/used/e9f42fdfa1e4.html",
       "source_url": "https://www.marvjoneshonda.com/used/2019-Jeep-Compass-id14274064.html",
       "dealer_url": "https://www.marvjoneshonda.com/used/2019-Jeep-Compass-id14274064.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -460,8 +526,10 @@
       "odometer_km": 61167,
       "year": 2019,
       "make": "Jeep",
-      "model": "Compass Trailhawkin Maple Ridge",
-      "condition": "used"
+      "model": "Compass",
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2019 Jeep Compass ",
@@ -477,7 +545,9 @@
       "year": 2019,
       "make": "Jeep",
       "model": "Compass",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2019 Jeep Compass ",
@@ -493,12 +563,15 @@
       "year": 2019,
       "make": "Jeep",
       "model": "Compass",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2019 MINI Countryman Cooperin Maple Ridge",
       "vin": "WMZYV5C52K3F58820",
       "stock": "NUMBER",
+      "trim": "Cooperin Maple Ridge",
       "url": "https://willyml1979-dotcom.github.io/marv-jones-honda-mirror/used/19032b6cf403.html",
       "source_url": "https://www.marvjoneshonda.com/used/2019-MINI-Countryman-id14300799.html",
       "dealer_url": "https://www.marvjoneshonda.com/used/2019-MINI-Countryman-id14300799.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -508,8 +581,10 @@
       "odometer_km": 42385,
       "year": 2019,
       "make": "MINI",
-      "model": "Countryman Cooperin Maple Ridge",
-      "condition": "used"
+      "model": "Countryman",
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2019 MINI Countryman ",
@@ -525,7 +600,9 @@
       "year": 2019,
       "make": "MINI",
       "model": "Countryman",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2019 MINI Countryman ",
@@ -541,7 +618,9 @@
       "year": 2019,
       "make": "MINI",
       "model": "Countryman",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2019 RAM 1500 Classic ",
@@ -555,7 +634,9 @@
       "year": 2019,
       "make": "RAM",
       "model": "1500 Classic",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2019 RAM 1500 Classic ",
@@ -571,12 +652,15 @@
       "year": 2019,
       "make": "RAM",
       "model": "1500 Classic",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2020 Ford Escape SEin Maple Ridge",
       "vin": "1FMCU9G66LUC00633",
       "stock": "NUMBER",
+      "trim": "SEin Maple Ridge",
       "url": "https://willyml1979-dotcom.github.io/marv-jones-honda-mirror/used/ecc6d8a58837.html",
       "source_url": "https://www.marvjoneshonda.com/used/2020-Ford-Escape-id14257576.html",
       "dealer_url": "https://www.marvjoneshonda.com/used/2020-Ford-Escape-id14257576.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -586,8 +670,10 @@
       "odometer_km": 72430,
       "year": 2020,
       "make": "Ford",
-      "model": "Escape SEin Maple Ridge",
-      "condition": "used"
+      "model": "Escape",
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2020 Ford Escape ",
@@ -603,7 +689,9 @@
       "year": 2020,
       "make": "Ford",
       "model": "Escape",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2020 Ford Escape ",
@@ -619,12 +707,15 @@
       "year": 2020,
       "make": "Ford",
       "model": "Escape",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2020 Hyundai Santa Fe 2.0T Ultimate AWDin Maple Ridge",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "2.0T Ultimate AWDin Maple Ridge",
       "url": "https://willyml1979-dotcom.github.io/marv-jones-honda-mirror/used/fa4a358570a4.html",
       "source_url": "https://www.marvjoneshonda.com/used/2020-Hyundai-Santa_Fe-id14020036.html",
       "dealer_url": "https://www.marvjoneshonda.com/used/2020-Hyundai-Santa_Fe-id14020036.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -634,8 +725,10 @@
       "odometer_km": 147219,
       "year": 2020,
       "make": "Hyundai",
-      "model": "Santa Fe 2.0T Ultimate AWDin Maple Ridge",
-      "condition": "used"
+      "model": "Santa Fe",
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2020 Hyundai Santa Fe ",
@@ -651,7 +744,9 @@
       "year": 2020,
       "make": "Hyundai",
       "model": "Santa Fe",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2020 Hyundai Santa Fe ",
@@ -667,12 +762,15 @@
       "year": 2020,
       "make": "Hyundai",
       "model": "Santa Fe",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2021 Jeep Gladiator Mojavein Maple Ridge",
       "vin": "1C6JJTEG0ML618441",
       "stock": "NUMBER",
+      "trim": "Mojavein Maple Ridge",
       "url": "https://willyml1979-dotcom.github.io/marv-jones-honda-mirror/used/52aa1027af7a.html",
       "source_url": "https://www.marvjoneshonda.com/used/2021-Jeep-Gladiator-id14257171.html",
       "dealer_url": "https://www.marvjoneshonda.com/used/2021-Jeep-Gladiator-id14257171.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -682,8 +780,10 @@
       "odometer_km": 60700,
       "year": 2021,
       "make": "Jeep",
-      "model": "Gladiator Mojavein Maple Ridge",
-      "condition": "used"
+      "model": "Gladiator",
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2021 Jeep Gladiator ",
@@ -699,7 +799,9 @@
       "year": 2021,
       "make": "Jeep",
       "model": "Gladiator",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2021 Jeep Gladiator ",
@@ -715,12 +817,15 @@
       "year": 2021,
       "make": "Jeep",
       "model": "Gladiator",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2022 Lexus NX 350h Premiumin Maple Ridge",
       "vin": "2T2GKCEZ8NC007613",
       "stock": "NUMBER",
+      "trim": "350h Premiumin Maple Ridge",
       "url": "https://willyml1979-dotcom.github.io/marv-jones-honda-mirror/used/7e6f191ab600.html",
       "source_url": "https://www.marvjoneshonda.com/used/2022-Lexus-NX-id14300800.html",
       "dealer_url": "https://www.marvjoneshonda.com/used/2022-Lexus-NX-id14300800.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -730,8 +835,10 @@
       "odometer_km": 17458,
       "year": 2022,
       "make": "Lexus",
-      "model": "NX 350h Premiumin Maple Ridge",
-      "condition": "used"
+      "model": "NX",
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2022 Lexus NX ",
@@ -747,7 +854,9 @@
       "year": 2022,
       "make": "Lexus",
       "model": "NX",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2022 Lexus NX ",
@@ -763,7 +872,9 @@
       "year": 2022,
       "make": "Lexus",
       "model": "NX",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2022 Volkswagen Atlas Comfortline 3.6 FSI 4MOTIONin Maple Ridge",
@@ -779,7 +890,9 @@
       "year": 2022,
       "make": "Volkswagen",
       "model": "Atlas Comfortline 3.6 FSI 4MOTIONin Maple Ridge",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2022 Volkswagen Atlas ",
@@ -795,7 +908,9 @@
       "year": 2022,
       "make": "Volkswagen",
       "model": "Atlas",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2022 Volkswagen Atlas ",
@@ -811,12 +926,15 @@
       "year": 2022,
       "make": "Volkswagen",
       "model": "Atlas",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2023 Kia Forte Gt-Linein Maple Ridge",
       "vin": "3KPF34AD6PE693765",
       "stock": "NUMBER",
+      "trim": "Gt-Linein Maple Ridge",
       "url": "https://willyml1979-dotcom.github.io/marv-jones-honda-mirror/used/d79daa422c17.html",
       "source_url": "https://www.marvjoneshonda.com/used/2023-Kia-Forte-id14263289.html",
       "dealer_url": "https://www.marvjoneshonda.com/used/2023-Kia-Forte-id14263289.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -826,8 +944,10 @@
       "odometer_km": 61782,
       "year": 2023,
       "make": "Kia",
-      "model": "Forte Gt-Linein Maple Ridge",
-      "condition": "used"
+      "model": "Forte",
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2023 Kia Forte ",
@@ -843,7 +963,9 @@
       "year": 2023,
       "make": "Kia",
       "model": "Forte",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2023 Kia Forte ",
@@ -859,12 +981,15 @@
       "year": 2023,
       "make": "Kia",
       "model": "Forte",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2023 Toyota Tacoma 4x4 Double Cab TRD OFFROADin Maple Ridge",
       "vin": "3TYCZ5ANXPT169822",
       "stock": "NUMBER",
+      "trim": "Double TRD OFFROADin Maple Ridge",
       "url": "https://willyml1979-dotcom.github.io/marv-jones-honda-mirror/used/768b3b32e469.html",
       "source_url": "https://www.marvjoneshonda.com/used/2023-Toyota-Tacoma-id14415179.html",
       "dealer_url": "https://www.marvjoneshonda.com/used/2023-Toyota-Tacoma-id14415179.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -874,8 +999,10 @@
       "odometer_km": 67912,
       "year": 2023,
       "make": "Toyota",
-      "model": "Tacoma 4x4 Double Cab TRD OFFROADin Maple Ridge",
-      "condition": "used"
+      "model": "Tacoma",
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2023 Toyota Tacoma ",
@@ -891,7 +1018,9 @@
       "year": 2023,
       "make": "Toyota",
       "model": "Tacoma",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2023 Toyota Tacoma ",
@@ -907,12 +1036,15 @@
       "year": 2023,
       "make": "Toyota",
       "model": "Tacoma",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2024 Honda HR-V Sportin Maple Ridge",
       "vin": "3CZRZ2H54RM111566",
       "stock": "NUMBER",
+      "trim": "Sportin Maple Ridge",
       "url": "https://willyml1979-dotcom.github.io/marv-jones-honda-mirror/used/5ee9232fd070.html",
       "source_url": "https://www.marvjoneshonda.com/used/2024-Honda-HR_V-id14283691.html",
       "dealer_url": "https://www.marvjoneshonda.com/used/2024-Honda-HR_V-id14283691.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -922,8 +1054,10 @@
       "odometer_km": 16390,
       "year": 2024,
       "make": "Honda",
-      "model": "HR-V Sportin Maple Ridge",
-      "condition": "used"
+      "model": "HR-V",
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2024 Honda HR-V ",
@@ -939,12 +1073,15 @@
       "year": 2024,
       "make": "Honda",
       "model": "HR-V",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2024 Honda Odyssey Black Edition Autoin Maple Ridge",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Black Edition Autoin Maple Ridge",
       "url": "https://willyml1979-dotcom.github.io/marv-jones-honda-mirror/used/5ed141252844.html",
       "source_url": "https://www.marvjoneshonda.com/used/2024-Honda-Odyssey-id14408784.html",
       "dealer_url": "https://www.marvjoneshonda.com/used/2024-Honda-Odyssey-id14408784.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -954,8 +1091,10 @@
       "odometer_km": 36259,
       "year": 2024,
       "make": "Honda",
-      "model": "Odyssey Black Edition Autoin Maple Ridge",
-      "condition": "used"
+      "model": "Odyssey",
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2024 Honda Odyssey ",
@@ -971,7 +1110,9 @@
       "year": 2024,
       "make": "Honda",
       "model": "Odyssey",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2024 Honda HR-V ",
@@ -987,7 +1128,9 @@
       "year": 2024,
       "make": "Honda",
       "model": "HR-V",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2024 Honda Odyssey ",
@@ -1003,12 +1146,15 @@
       "year": 2024,
       "make": "Honda",
       "model": "Odyssey",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2024 Subaru Outback Wilderness AWDin Maple Ridge",
       "vin": "4S4BTHTD5R3117318",
       "stock": "NUMBER",
+      "trim": "Wilderness AWDin Maple Ridge",
       "url": "https://willyml1979-dotcom.github.io/marv-jones-honda-mirror/used/9feba1b2eae3.html",
       "source_url": "https://www.marvjoneshonda.com/used/2024-Subaru-Outback-id14029570.html",
       "dealer_url": "https://www.marvjoneshonda.com/used/2024-Subaru-Outback-id14029570.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1018,8 +1164,10 @@
       "odometer_km": 92685,
       "year": 2024,
       "make": "Subaru",
-      "model": "Outback Wilderness AWDin Maple Ridge",
-      "condition": "used"
+      "model": "Outback",
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2024 Subaru Outback ",
@@ -1035,7 +1183,9 @@
       "year": 2024,
       "make": "Subaru",
       "model": "Outback",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2024 Subaru Outback ",
@@ -1051,12 +1201,15 @@
       "year": 2024,
       "make": "Subaru",
       "model": "Outback",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2024 Toyota Corolla Cross Hybrid SE AWDin Maple Ridge",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "SE AWDin Maple Ridge",
       "url": "https://willyml1979-dotcom.github.io/marv-jones-honda-mirror/used/39e245e2d302.html",
       "source_url": "https://www.marvjoneshonda.com/used/2024-Toyota-Corolla_Cross-id14408787.html",
       "dealer_url": "https://www.marvjoneshonda.com/used/2024-Toyota-Corolla_Cross-id14408787.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1066,8 +1219,10 @@
       "odometer_km": 27037,
       "year": 2024,
       "make": "Toyota",
-      "model": "Corolla Cross Hybrid SE AWDin Maple Ridge",
-      "condition": "used"
+      "model": "Corolla Cross Hybrid",
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2024 Toyota Corolla Cross ",
@@ -1083,7 +1238,9 @@
       "year": 2024,
       "make": "Toyota",
       "model": "Corolla Cross",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2024 Toyota Corolla Cross ",
@@ -1099,12 +1256,15 @@
       "year": 2024,
       "make": "Toyota",
       "model": "Corolla Cross",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2025 Honda CR-V LX AWDin Maple Ridge",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "LX AWDin Maple Ridge",
       "url": "https://willyml1979-dotcom.github.io/marv-jones-honda-mirror/used/f286bb0f64a3.html",
       "source_url": "https://www.marvjoneshonda.com/used/2025-Honda-CR_V-id14355432.html",
       "dealer_url": "https://www.marvjoneshonda.com/used/2025-Honda-CR_V-id14355432.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1114,8 +1274,10 @@
       "odometer_km": 41157,
       "year": 2025,
       "make": "Honda",
-      "model": "CR-V LX AWDin Maple Ridge",
-      "condition": "used"
+      "model": "CR-V",
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2025 Honda CR-V ",
@@ -1131,12 +1293,15 @@
       "year": 2025,
       "make": "Honda",
       "model": "CR-V",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2025 Honda CR-V Hybrid Touring AWDin Maple Ridge",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Touring AWDin Maple Ridge",
       "url": "https://willyml1979-dotcom.github.io/marv-jones-honda-mirror/used/1333160cc731.html",
       "source_url": "https://www.marvjoneshonda.com/used/2025-Honda-CR_V_Hybrid-id14408794.html",
       "dealer_url": "https://www.marvjoneshonda.com/used/2025-Honda-CR_V_Hybrid-id14408794.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1146,8 +1311,10 @@
       "odometer_km": 12569,
       "year": 2025,
       "make": "Honda",
-      "model": "CR-V Hybrid Touring AWDin Maple Ridge",
-      "condition": "used"
+      "model": "CR-V",
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2025 Honda CR-V Hybrid ",
@@ -1163,12 +1330,15 @@
       "year": 2025,
       "make": "Honda",
       "model": "CR-V Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2025 Honda CR-V LX AWDin Maple Ridge",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "LX AWDin Maple Ridge",
       "url": "https://willyml1979-dotcom.github.io/marv-jones-honda-mirror/new/a6fc76fd4acd.html",
       "source_url": "https://www.marvjoneshonda.com/new/inventory/2025-Honda-CR_V-id12030989.html",
       "dealer_url": "https://www.marvjoneshonda.com/new/inventory/2025-Honda-CR_V-id12030989.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1177,8 +1347,10 @@
       "price_currency": "CAD",
       "year": 2025,
       "make": "Honda",
-      "model": "CR-V LX AWDin Maple Ridge",
-      "condition": "new"
+      "model": "CR-V",
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2025 Honda CR-V ",
@@ -1194,7 +1366,9 @@
       "year": 2025,
       "make": "Honda",
       "model": "CR-V",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2025 Honda CR-V Hybrid ",
@@ -1210,7 +1384,9 @@
       "year": 2025,
       "make": "Honda",
       "model": "CR-V Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Accord Hybrid ",
@@ -1226,12 +1402,15 @@
       "year": 2026,
       "make": "Honda",
       "model": "Accord Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Accord Sedanin Maple Ridge",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Sedanin Maple Ridge",
       "url": "https://willyml1979-dotcom.github.io/marv-jones-honda-mirror/used/d34222ec62c5.html",
       "source_url": "https://www.marvjoneshonda.com/new/2026-Honda-Accord_Sedan.html",
       "dealer_url": "https://www.marvjoneshonda.com/new/2026-Honda-Accord_Sedan.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1240,8 +1419,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Honda",
-      "model": "Accord Sedanin Maple Ridge",
-      "condition": "used"
+      "model": "Accord",
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Honda CR-V ",
@@ -1257,7 +1438,9 @@
       "year": 2026,
       "make": "Honda",
       "model": "CR-V",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Honda CR-V Hybrid ",
@@ -1273,7 +1456,9 @@
       "year": 2026,
       "make": "Honda",
       "model": "CR-V Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Civic ",
@@ -1289,7 +1474,9 @@
       "year": 2026,
       "make": "Honda",
       "model": "Civic",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Civic Hatchback Hybrid ",
@@ -1305,7 +1492,9 @@
       "year": 2026,
       "make": "Honda",
       "model": "Civic Hatchback Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Civic ",
@@ -1321,7 +1510,9 @@
       "year": 2026,
       "make": "Honda",
       "model": "Civic",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Civic Hybrid ",
@@ -1337,13 +1528,16 @@
       "year": 2026,
       "make": "Honda",
       "model": "Civic Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Civic Sedan Si ",
       "vin": "2HGFE1E5XTH081032",
       "stock": 13766518,
       "color": "{$COLOREX}",
+      "trim": "Si",
       "url": "https://willyml1979-dotcom.github.io/marv-jones-honda-mirror/used/7d7e08244ec6.html",
       "source_url": "https://www.marvjoneshonda.com/new/2026-Honda-Civic_Si_Sedan.html",
       "dealer_url": "https://www.marvjoneshonda.com/new/2026-Honda-Civic_Si_Sedan.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1352,13 +1546,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Honda",
-      "model": "Civic Sedan Si",
-      "condition": "used"
+      "model": "Civic",
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Civic Type Rin Maple Ridge",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Type Rin Maple Ridge",
       "url": "https://willyml1979-dotcom.github.io/marv-jones-honda-mirror/used/c3c04b8119c0.html",
       "source_url": "https://www.marvjoneshonda.com/new/2026-Honda-Civic_Type_R.html",
       "dealer_url": "https://www.marvjoneshonda.com/new/2026-Honda-Civic_Type_R.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1367,8 +1564,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Honda",
-      "model": "Civic Type Rin Maple Ridge",
-      "condition": "used"
+      "model": "Civic",
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Honda HR-V ",
@@ -1384,7 +1583,9 @@
       "year": 2026,
       "make": "Honda",
       "model": "HR-V",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Odyssey ",
@@ -1400,7 +1601,9 @@
       "year": 2026,
       "make": "Honda",
       "model": "Odyssey",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Passport ",
@@ -1416,7 +1619,9 @@
       "year": 2026,
       "make": "Honda",
       "model": "Passport",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Pilot ",
@@ -1432,7 +1637,9 @@
       "year": 2026,
       "make": "Honda",
       "model": "Pilot",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Prelude ",
@@ -1448,7 +1655,9 @@
       "year": 2026,
       "make": "Honda",
       "model": "Prelude",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Prologuein Maple Ridge",
@@ -1463,7 +1672,9 @@
       "year": 2026,
       "make": "Honda",
       "model": "Prologuein Maple Ridge",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Ridgeline ",
@@ -1479,12 +1690,15 @@
       "year": 2026,
       "make": "Honda",
       "model": "Ridgeline",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Civic Hybridin Maple Ridge",
       "vin": "2HGFE4F89TH016036",
       "stock": "NUMBER",
+      "trim": "Hybridin Maple Ridge",
       "url": "https://willyml1979-dotcom.github.io/marv-jones-honda-mirror/used/3817977ffcc9.html",
       "source_url": "https://www.marvjoneshonda.com/used/2026-Honda-Civic_Hybrid-id14400411.html",
       "dealer_url": "https://www.marvjoneshonda.com/used/2026-Honda-Civic_Hybrid-id14400411.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1494,8 +1708,10 @@
       "odometer_km": 11335,
       "year": 2026,
       "make": "Honda",
-      "model": "Civic Hybridin Maple Ridge",
-      "condition": "used"
+      "model": "Civic",
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Civic Hybrid ",
@@ -1511,7 +1727,9 @@
       "year": 2026,
       "make": "Honda",
       "model": "Civic Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Accord Hybrid ",
@@ -1527,12 +1745,15 @@
       "year": 2026,
       "make": "Honda",
       "model": "Accord Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Accord Sedanin Maple Ridge",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Sedanin Maple Ridge",
       "url": "https://willyml1979-dotcom.github.io/marv-jones-honda-mirror/new/d34222ec62c5.html",
       "source_url": "https://www.marvjoneshonda.com/new/2026-Honda-Accord_Sedan.html",
       "dealer_url": "https://www.marvjoneshonda.com/new/2026-Honda-Accord_Sedan.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1541,8 +1762,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Honda",
-      "model": "Accord Sedanin Maple Ridge",
-      "condition": "new"
+      "model": "Accord",
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Honda CR-V ",
@@ -1558,7 +1781,9 @@
       "year": 2026,
       "make": "Honda",
       "model": "CR-V",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Honda CR-V Hybrid ",
@@ -1574,7 +1799,9 @@
       "year": 2026,
       "make": "Honda",
       "model": "CR-V Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Civic ",
@@ -1590,7 +1817,9 @@
       "year": 2026,
       "make": "Honda",
       "model": "Civic",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Civic Hatchback Hybrid ",
@@ -1606,7 +1835,9 @@
       "year": 2026,
       "make": "Honda",
       "model": "Civic Hatchback Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Civic ",
@@ -1622,7 +1853,9 @@
       "year": 2026,
       "make": "Honda",
       "model": "Civic",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Civic Hybrid ",
@@ -1638,13 +1871,16 @@
       "year": 2026,
       "make": "Honda",
       "model": "Civic Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Civic Sedan Si ",
       "vin": "2HGFE1E5XTH081032",
       "stock": 13766518,
       "color": "{$COLOREX}",
+      "trim": "Si",
       "url": "https://willyml1979-dotcom.github.io/marv-jones-honda-mirror/new/7d7e08244ec6.html",
       "source_url": "https://www.marvjoneshonda.com/new/2026-Honda-Civic_Si_Sedan.html",
       "dealer_url": "https://www.marvjoneshonda.com/new/2026-Honda-Civic_Si_Sedan.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1653,13 +1889,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Honda",
-      "model": "Civic Sedan Si",
-      "condition": "new"
+      "model": "Civic",
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Civic Type Rin Maple Ridge",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Type Rin Maple Ridge",
       "url": "https://willyml1979-dotcom.github.io/marv-jones-honda-mirror/new/c3c04b8119c0.html",
       "source_url": "https://www.marvjoneshonda.com/new/2026-Honda-Civic_Type_R.html",
       "dealer_url": "https://www.marvjoneshonda.com/new/2026-Honda-Civic_Type_R.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1668,8 +1907,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Honda",
-      "model": "Civic Type Rin Maple Ridge",
-      "condition": "new"
+      "model": "Civic",
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Honda HR-V ",
@@ -1685,7 +1926,9 @@
       "year": 2026,
       "make": "Honda",
       "model": "HR-V",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Odyssey ",
@@ -1701,7 +1944,9 @@
       "year": 2026,
       "make": "Honda",
       "model": "Odyssey",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Passport ",
@@ -1717,7 +1962,9 @@
       "year": 2026,
       "make": "Honda",
       "model": "Passport",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Pilot ",
@@ -1733,7 +1980,9 @@
       "year": 2026,
       "make": "Honda",
       "model": "Pilot",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Prelude ",
@@ -1749,7 +1998,9 @@
       "year": 2026,
       "make": "Honda",
       "model": "Prelude",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Prologuein Maple Ridge",
@@ -1764,7 +2015,9 @@
       "year": 2026,
       "make": "Honda",
       "model": "Prologuein Maple Ridge",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Ridgeline ",
@@ -1780,12 +2033,15 @@
       "year": 2026,
       "make": "Honda",
       "model": "Ridgeline",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Honda CR-V LX 2WDin Maple Ridge",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "LX 2WDin Maple Ridge",
       "url": "https://willyml1979-dotcom.github.io/marv-jones-honda-mirror/new/8fc2ec2af1a2.html",
       "source_url": "https://www.marvjoneshonda.com/new/inventory/2026-Honda-CR_V-id12924281.html",
       "dealer_url": "https://www.marvjoneshonda.com/new/inventory/2026-Honda-CR_V-id12924281.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1794,13 +2050,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Honda",
-      "model": "CR-V LX 2WDin Maple Ridge",
-      "condition": "new"
+      "model": "CR-V",
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Honda CR-V Sport AWDin Maple Ridge",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Sport AWDin Maple Ridge",
       "url": "https://willyml1979-dotcom.github.io/marv-jones-honda-mirror/new/201e9ac382f9.html",
       "source_url": "https://www.marvjoneshonda.com/new/inventory/2026-Honda-CR_V-id13475066.html",
       "dealer_url": "https://www.marvjoneshonda.com/new/inventory/2026-Honda-CR_V-id13475066.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1809,13 +2068,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Honda",
-      "model": "CR-V Sport AWDin Maple Ridge",
-      "condition": "new"
+      "model": "CR-V",
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Honda CR-V Sport AWDin Maple Ridge",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Sport AWDin Maple Ridge",
       "url": "https://willyml1979-dotcom.github.io/marv-jones-honda-mirror/new/9350e2c64893.html",
       "source_url": "https://www.marvjoneshonda.com/new/inventory/2026-Honda-CR_V-id13554715.html",
       "dealer_url": "https://www.marvjoneshonda.com/new/inventory/2026-Honda-CR_V-id13554715.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1824,13 +2086,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Honda",
-      "model": "CR-V Sport AWDin Maple Ridge",
-      "condition": "new"
+      "model": "CR-V",
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Honda CR-V Sport AWDin Maple Ridge",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Sport AWDin Maple Ridge",
       "url": "https://willyml1979-dotcom.github.io/marv-jones-honda-mirror/new/6a3fd6d8849b.html",
       "source_url": "https://www.marvjoneshonda.com/new/inventory/2026-Honda-CR_V-id13679046.html",
       "dealer_url": "https://www.marvjoneshonda.com/new/inventory/2026-Honda-CR_V-id13679046.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1839,13 +2104,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Honda",
-      "model": "CR-V Sport AWDin Maple Ridge",
-      "condition": "new"
+      "model": "CR-V",
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Honda CR-V Sport AWDin Maple Ridge",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Sport AWDin Maple Ridge",
       "url": "https://willyml1979-dotcom.github.io/marv-jones-honda-mirror/new/e2ecc5508c86.html",
       "source_url": "https://www.marvjoneshonda.com/new/inventory/2026-Honda-CR_V-id13679048.html",
       "dealer_url": "https://www.marvjoneshonda.com/new/inventory/2026-Honda-CR_V-id13679048.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1854,13 +2122,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Honda",
-      "model": "CR-V Sport AWDin Maple Ridge",
-      "condition": "new"
+      "model": "CR-V",
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Civic Sport CVT Sedanin Maple Ridge",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Sport Sedanin Maple Ridge",
       "url": "https://willyml1979-dotcom.github.io/marv-jones-honda-mirror/new/9430b4b7a19e.html",
       "source_url": "https://www.marvjoneshonda.com/new/inventory/2026-Honda-Civic-id12835760.html",
       "dealer_url": "https://www.marvjoneshonda.com/new/inventory/2026-Honda-Civic-id12835760.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1869,13 +2140,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Honda",
-      "model": "Civic Sport CVT Sedanin Maple Ridge",
-      "condition": "new"
+      "model": "Civic",
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Civic LX CVT Sedanin Maple Ridge",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "LX Sedanin Maple Ridge",
       "url": "https://willyml1979-dotcom.github.io/marv-jones-honda-mirror/new/22dc793f532a.html",
       "source_url": "https://www.marvjoneshonda.com/new/inventory/2026-Honda-Civic-id13331292.html",
       "dealer_url": "https://www.marvjoneshonda.com/new/inventory/2026-Honda-Civic-id13331292.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1884,13 +2158,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Honda",
-      "model": "Civic LX CVT Sedanin Maple Ridge",
-      "condition": "new"
+      "model": "Civic",
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Civic Sport CVT Sedanin Maple Ridge",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Sport Sedanin Maple Ridge",
       "url": "https://willyml1979-dotcom.github.io/marv-jones-honda-mirror/new/95ca47bc84ce.html",
       "source_url": "https://www.marvjoneshonda.com/new/inventory/2026-Honda-Civic-id13331296.html",
       "dealer_url": "https://www.marvjoneshonda.com/new/inventory/2026-Honda-Civic-id13331296.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1899,13 +2176,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Honda",
-      "model": "Civic Sport CVT Sedanin Maple Ridge",
-      "condition": "new"
+      "model": "Civic",
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Civic Sport CVT Hatchbackin Maple Ridge",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Sport Hatchbackin Maple Ridge",
       "url": "https://willyml1979-dotcom.github.io/marv-jones-honda-mirror/new/4b308e207ee2.html",
       "source_url": "https://www.marvjoneshonda.com/new/inventory/2026-Honda-Civic-id13374533.html",
       "dealer_url": "https://www.marvjoneshonda.com/new/inventory/2026-Honda-Civic-id13374533.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1914,13 +2194,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Honda",
-      "model": "Civic Sport CVT Hatchbackin Maple Ridge",
-      "condition": "new"
+      "model": "Civic",
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Civic Sport CVT Sedanin Maple Ridge",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Sport Sedanin Maple Ridge",
       "url": "https://willyml1979-dotcom.github.io/marv-jones-honda-mirror/new/4987116d37af.html",
       "source_url": "https://www.marvjoneshonda.com/new/inventory/2026-Honda-Civic-id13554716.html",
       "dealer_url": "https://www.marvjoneshonda.com/new/inventory/2026-Honda-Civic-id13554716.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1929,13 +2212,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Honda",
-      "model": "Civic Sport CVT Sedanin Maple Ridge",
-      "condition": "new"
+      "model": "Civic",
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Civic Sport CVT Sedanin Maple Ridge",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Sport Sedanin Maple Ridge",
       "url": "https://willyml1979-dotcom.github.io/marv-jones-honda-mirror/new/3e450a83b978.html",
       "source_url": "https://www.marvjoneshonda.com/new/inventory/2026-Honda-Civic-id13720549.html",
       "dealer_url": "https://www.marvjoneshonda.com/new/inventory/2026-Honda-Civic-id13720549.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1944,13 +2230,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Honda",
-      "model": "Civic Sport CVT Sedanin Maple Ridge",
-      "condition": "new"
+      "model": "Civic",
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Civic LX CVT Sedanin Maple Ridge",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "LX Sedanin Maple Ridge",
       "url": "https://willyml1979-dotcom.github.io/marv-jones-honda-mirror/new/73aeaefa12d4.html",
       "source_url": "https://www.marvjoneshonda.com/new/inventory/2026-Honda-Civic-id13766515.html",
       "dealer_url": "https://www.marvjoneshonda.com/new/inventory/2026-Honda-Civic-id13766515.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1959,13 +2248,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Honda",
-      "model": "Civic LX CVT Sedanin Maple Ridge",
-      "condition": "new"
+      "model": "Civic",
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Civic Sport CVT Sedanin Maple Ridge",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Sport Sedanin Maple Ridge",
       "url": "https://willyml1979-dotcom.github.io/marv-jones-honda-mirror/new/e95dc0ade5a6.html",
       "source_url": "https://www.marvjoneshonda.com/new/inventory/2026-Honda-Civic-id13786245.html",
       "dealer_url": "https://www.marvjoneshonda.com/new/inventory/2026-Honda-Civic-id13786245.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1974,13 +2266,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Honda",
-      "model": "Civic Sport CVT Sedanin Maple Ridge",
-      "condition": "new"
+      "model": "Civic",
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Civic Sport CVT Sedanin Maple Ridge",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Sport Sedanin Maple Ridge",
       "url": "https://willyml1979-dotcom.github.io/marv-jones-honda-mirror/new/d205ddb47e6a.html",
       "source_url": "https://www.marvjoneshonda.com/new/inventory/2026-Honda-Civic-id13853016.html",
       "dealer_url": "https://www.marvjoneshonda.com/new/inventory/2026-Honda-Civic-id13853016.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1989,13 +2284,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Honda",
-      "model": "Civic Sport CVT Sedanin Maple Ridge",
-      "condition": "new"
+      "model": "Civic",
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Civic Sport CVT Sedanin Maple Ridge",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Sport Sedanin Maple Ridge",
       "url": "https://willyml1979-dotcom.github.io/marv-jones-honda-mirror/new/3ead028945c8.html",
       "source_url": "https://www.marvjoneshonda.com/new/inventory/2026-Honda-Civic-id13919427.html",
       "dealer_url": "https://www.marvjoneshonda.com/new/inventory/2026-Honda-Civic-id13919427.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2004,13 +2302,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Honda",
-      "model": "Civic Sport CVT Sedanin Maple Ridge",
-      "condition": "new"
+      "model": "Civic",
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Civic LX CVT Sedanin Maple Ridge",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "LX Sedanin Maple Ridge",
       "url": "https://willyml1979-dotcom.github.io/marv-jones-honda-mirror/new/f58ad98df86e.html",
       "source_url": "https://www.marvjoneshonda.com/new/inventory/2026-Honda-Civic-id14371745.html",
       "dealer_url": "https://www.marvjoneshonda.com/new/inventory/2026-Honda-Civic-id14371745.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2019,13 +2320,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Honda",
-      "model": "Civic LX CVT Sedanin Maple Ridge",
-      "condition": "new"
+      "model": "Civic",
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Civic Hybrid Sport eCVT Sedanin Maple Ridge",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Sport eCVT Sedanin Maple Ridge",
       "url": "https://willyml1979-dotcom.github.io/marv-jones-honda-mirror/new/a62f377e2e52.html",
       "source_url": "https://www.marvjoneshonda.com/new/inventory/2026-Honda-Civic_Hybrid-id13459280.html",
       "dealer_url": "https://www.marvjoneshonda.com/new/inventory/2026-Honda-Civic_Hybrid-id13459280.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2034,13 +2338,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Honda",
-      "model": "Civic Hybrid Sport eCVT Sedanin Maple Ridge",
-      "condition": "new"
+      "model": "Civic Hybrid",
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Civic Hybrid Sport Touring eCVT Sedanin Maple Ridge",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Sport Touring eCVT Sedanin Maple Ridge",
       "url": "https://willyml1979-dotcom.github.io/marv-jones-honda-mirror/new/9329d295226c.html",
       "source_url": "https://www.marvjoneshonda.com/new/inventory/2026-Honda-Civic_Hybrid-id13481504.html",
       "dealer_url": "https://www.marvjoneshonda.com/new/inventory/2026-Honda-Civic_Hybrid-id13481504.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2049,13 +2356,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Honda",
-      "model": "Civic Hybrid Sport Touring eCVT Sedanin Maple Ridge",
-      "condition": "new"
+      "model": "Civic Hybrid",
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Civic Hybrid Sport eCVT Sedanin Maple Ridge",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Sport eCVT Sedanin Maple Ridge",
       "url": "https://willyml1979-dotcom.github.io/marv-jones-honda-mirror/new/50da79766c44.html",
       "source_url": "https://www.marvjoneshonda.com/new/inventory/2026-Honda-Civic_Hybrid-id13554724.html",
       "dealer_url": "https://www.marvjoneshonda.com/new/inventory/2026-Honda-Civic_Hybrid-id13554724.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2064,13 +2374,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Honda",
-      "model": "Civic Hybrid Sport eCVT Sedanin Maple Ridge",
-      "condition": "new"
+      "model": "Civic Hybrid",
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Civic Hybrid Sport eCVT Sedanin Maple Ridge",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Sport eCVT Sedanin Maple Ridge",
       "url": "https://willyml1979-dotcom.github.io/marv-jones-honda-mirror/new/5395622cf225.html",
       "source_url": "https://www.marvjoneshonda.com/new/inventory/2026-Honda-Civic_Hybrid-id13803466.html",
       "dealer_url": "https://www.marvjoneshonda.com/new/inventory/2026-Honda-Civic_Hybrid-id13803466.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2079,13 +2392,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Honda",
-      "model": "Civic Hybrid Sport eCVT Sedanin Maple Ridge",
-      "condition": "new"
+      "model": "Civic Hybrid",
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Civic Hybrid Sport eCVT Sedanin Maple Ridge",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Sport eCVT Sedanin Maple Ridge",
       "url": "https://willyml1979-dotcom.github.io/marv-jones-honda-mirror/new/022d420be864.html",
       "source_url": "https://www.marvjoneshonda.com/new/inventory/2026-Honda-Civic_Hybrid-id14371746.html",
       "dealer_url": "https://www.marvjoneshonda.com/new/inventory/2026-Honda-Civic_Hybrid-id14371746.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2094,13 +2410,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Honda",
-      "model": "Civic Hybrid Sport eCVT Sedanin Maple Ridge",
-      "condition": "new"
+      "model": "Civic Hybrid",
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Civic Hybrid Sport Touring eCVT Sedanin Maple Ridge",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Sport Touring eCVT Sedanin Maple Ridge",
       "url": "https://willyml1979-dotcom.github.io/marv-jones-honda-mirror/new/aeaa15b87697.html",
       "source_url": "https://www.marvjoneshonda.com/new/inventory/2026-Honda-Civic_Hybrid-id14371747.html",
       "dealer_url": "https://www.marvjoneshonda.com/new/inventory/2026-Honda-Civic_Hybrid-id14371747.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2109,13 +2428,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Honda",
-      "model": "Civic Hybrid Sport Touring eCVT Sedanin Maple Ridge",
-      "condition": "new"
+      "model": "Civic Hybrid",
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Civic Hybrid Sport eCVT Sedanin Maple Ridge",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Sport eCVT Sedanin Maple Ridge",
       "url": "https://willyml1979-dotcom.github.io/marv-jones-honda-mirror/new/b8b639c122bf.html",
       "source_url": "https://www.marvjoneshonda.com/new/inventory/2026-Honda-Civic_Hybrid-id14409120.html",
       "dealer_url": "https://www.marvjoneshonda.com/new/inventory/2026-Honda-Civic_Hybrid-id14409120.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2124,13 +2446,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Honda",
-      "model": "Civic Hybrid Sport eCVT Sedanin Maple Ridge",
-      "condition": "new"
+      "model": "Civic Hybrid",
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Civic Hybrid Sport Touring eCVT Sedanin Maple Ridge",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Sport Touring eCVT Sedanin Maple Ridge",
       "url": "https://willyml1979-dotcom.github.io/marv-jones-honda-mirror/new/e50f39353dc6.html",
       "source_url": "https://www.marvjoneshonda.com/new/inventory/2026-Honda-Civic_Hybrid-id14420172.html",
       "dealer_url": "https://www.marvjoneshonda.com/new/inventory/2026-Honda-Civic_Hybrid-id14420172.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2139,13 +2464,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Honda",
-      "model": "Civic Hybrid Sport Touring eCVT Sedanin Maple Ridge",
-      "condition": "new"
+      "model": "Civic Hybrid",
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Civic Hybrid Sport Touring eCVT Sedanin Maple Ridge",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Sport Touring eCVT Sedanin Maple Ridge",
       "url": "https://willyml1979-dotcom.github.io/marv-jones-honda-mirror/new/aef210d9872f.html",
       "source_url": "https://www.marvjoneshonda.com/new/inventory/2026-Honda-Civic_Hybrid-id14427595.html",
       "dealer_url": "https://www.marvjoneshonda.com/new/inventory/2026-Honda-Civic_Hybrid-id14427595.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2154,13 +2482,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Honda",
-      "model": "Civic Hybrid Sport Touring eCVT Sedanin Maple Ridge",
-      "condition": "new"
+      "model": "Civic Hybrid",
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Civic Sedan Si Manualin Maple Ridge",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Si Manualin Maple Ridge",
       "url": "https://willyml1979-dotcom.github.io/marv-jones-honda-mirror/new/52b1bf01cc36.html",
       "source_url": "https://www.marvjoneshonda.com/new/inventory/2026-Honda-Civic_Sedan_Si-id13766518.html",
       "dealer_url": "https://www.marvjoneshonda.com/new/inventory/2026-Honda-Civic_Sedan_Si-id13766518.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2169,13 +2500,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Honda",
-      "model": "Civic Sedan Si Manualin Maple Ridge",
-      "condition": "new"
+      "model": "Civic",
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Civic Sedan Si Manualin Maple Ridge",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Si Manualin Maple Ridge",
       "url": "https://willyml1979-dotcom.github.io/marv-jones-honda-mirror/new/414462a36cc4.html",
       "source_url": "https://www.marvjoneshonda.com/new/inventory/2026-Honda-Civic_Sedan_Si-id13948729.html",
       "dealer_url": "https://www.marvjoneshonda.com/new/inventory/2026-Honda-Civic_Sedan_Si-id13948729.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2184,13 +2518,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Honda",
-      "model": "Civic Sedan Si Manualin Maple Ridge",
-      "condition": "new"
+      "model": "Civic",
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Honda HR-V Sport AWD CVTin Maple Ridge",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Sport CVTin Maple Ridge",
       "url": "https://willyml1979-dotcom.github.io/marv-jones-honda-mirror/new/3534e1d905bd.html",
       "source_url": "https://www.marvjoneshonda.com/new/inventory/2026-Honda-HR_V-id13554718.html",
       "dealer_url": "https://www.marvjoneshonda.com/new/inventory/2026-Honda-HR_V-id13554718.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2199,13 +2536,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Honda",
-      "model": "HR-V Sport AWD CVTin Maple Ridge",
-      "condition": "new"
+      "model": "HR-V",
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Honda HR-V Sport AWD CVTin Maple Ridge",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Sport CVTin Maple Ridge",
       "url": "https://willyml1979-dotcom.github.io/marv-jones-honda-mirror/new/594de3185c70.html",
       "source_url": "https://www.marvjoneshonda.com/new/inventory/2026-Honda-HR_V-id13554719.html",
       "dealer_url": "https://www.marvjoneshonda.com/new/inventory/2026-Honda-HR_V-id13554719.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2214,13 +2554,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Honda",
-      "model": "HR-V Sport AWD CVTin Maple Ridge",
-      "condition": "new"
+      "model": "HR-V",
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Honda HR-V Sport AWD CVTin Maple Ridge",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Sport CVTin Maple Ridge",
       "url": "https://willyml1979-dotcom.github.io/marv-jones-honda-mirror/new/182f4fca4761.html",
       "source_url": "https://www.marvjoneshonda.com/new/inventory/2026-Honda-HR_V-id13554721.html",
       "dealer_url": "https://www.marvjoneshonda.com/new/inventory/2026-Honda-HR_V-id13554721.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2229,13 +2572,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Honda",
-      "model": "HR-V Sport AWD CVTin Maple Ridge",
-      "condition": "new"
+      "model": "HR-V",
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Honda HR-V EX-L AWD CVTin Maple Ridge",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "EX-L CVTin Maple Ridge",
       "url": "https://willyml1979-dotcom.github.io/marv-jones-honda-mirror/new/ae34c62e78b6.html",
       "source_url": "https://www.marvjoneshonda.com/new/inventory/2026-Honda-HR_V-id13631873.html",
       "dealer_url": "https://www.marvjoneshonda.com/new/inventory/2026-Honda-HR_V-id13631873.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2244,8 +2590,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Honda",
-      "model": "HR-V EX-L AWD CVTin Maple Ridge",
-      "condition": "new"
+      "model": "HR-V",
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Civic Hybrid ",
@@ -2261,12 +2609,15 @@
       "year": 2026,
       "make": "Honda",
       "model": "Civic Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Cherokee Laredoin Maple Ridge",
       "vin": "3C4PJMB29TT261412",
       "stock": "NUMBER",
+      "trim": "Laredoin Maple Ridge",
       "url": "https://willyml1979-dotcom.github.io/marv-jones-honda-mirror/used/0e4f050984f5.html",
       "source_url": "https://www.marvjoneshonda.com/used/2026-Jeep-Cherokee-id14283692.html",
       "dealer_url": "https://www.marvjoneshonda.com/used/2026-Jeep-Cherokee-id14283692.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2276,8 +2627,10 @@
       "odometer_km": 1299,
       "year": 2026,
       "make": "Jeep",
-      "model": "Cherokee Laredoin Maple Ridge",
-      "condition": "used"
+      "model": "Cherokee",
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Cherokee ",
@@ -2293,7 +2646,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Cherokee",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Cherokee ",
@@ -2309,7 +2664,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Cherokee",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Roguein Maple Ridge",
@@ -2325,7 +2682,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Roguein Maple Ridge",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Rogue ",
@@ -2341,7 +2700,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Rogue ",
@@ -2357,12 +2718,15 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Toyota Prius Plug-In Hybridin Maple Ridge",
       "vin": "JTDACACU5T3071892",
       "stock": "NUMBER",
+      "trim": "Hybridin Maple Ridge",
       "url": "https://willyml1979-dotcom.github.io/marv-jones-honda-mirror/used/f1ca9806a795.html",
       "source_url": "https://www.marvjoneshonda.com/used/2026-Toyota-Prius_Plug_In_Hybrid-id14173671.html",
       "dealer_url": "https://www.marvjoneshonda.com/used/2026-Toyota-Prius_Plug_In_Hybrid-id14173671.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2372,8 +2736,10 @@
       "odometer_km": 3500,
       "year": 2026,
       "make": "Toyota",
-      "model": "Prius Plug-In Hybridin Maple Ridge",
-      "condition": "used"
+      "model": "Prius Plug-In",
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Toyota Prius Plug-In Hybrid ",
@@ -2389,7 +2755,9 @@
       "year": 2026,
       "make": "Toyota",
       "model": "Prius Plug-In Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Toyota Prius Plug-In Hybrid ",
@@ -2405,7 +2773,9 @@
       "year": 2026,
       "make": "Toyota",
       "model": "Prius Plug-In Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2027 Honda CR-Vin Maple Ridge",
@@ -2420,7 +2790,9 @@
       "year": 2027,
       "make": "Honda",
       "model": "CR-Vin Maple Ridge",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2027 Honda CR-V Hybrid ",
@@ -2436,7 +2808,9 @@
       "year": 2027,
       "make": "Honda",
       "model": "CR-V Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2027 Honda HR-V ",
@@ -2452,7 +2826,9 @@
       "year": 2027,
       "make": "Honda",
       "model": "HR-V",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2027 Honda Odyssey ",
@@ -2468,7 +2844,9 @@
       "year": 2027,
       "make": "Honda",
       "model": "Odyssey",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2027 Honda Preludein Maple Ridge",
@@ -2483,7 +2861,9 @@
       "year": 2027,
       "make": "Honda",
       "model": "Preludein Maple Ridge",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2027 Honda CR-Vin Maple Ridge",
@@ -2498,7 +2878,9 @@
       "year": 2027,
       "make": "Honda",
       "model": "CR-Vin Maple Ridge",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2027 Honda CR-V Hybrid ",
@@ -2514,7 +2896,9 @@
       "year": 2027,
       "make": "Honda",
       "model": "CR-V Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2027 Honda HR-V ",
@@ -2530,7 +2914,9 @@
       "year": 2027,
       "make": "Honda",
       "model": "HR-V",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2027 Honda Odyssey ",
@@ -2546,7 +2932,9 @@
       "year": 2027,
       "make": "Honda",
       "model": "Odyssey",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2027 Honda Preludein Maple Ridge",
@@ -2561,12 +2949,15 @@
       "year": 2027,
       "make": "Honda",
       "model": "Preludein Maple Ridge",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2027 Honda HR-V LX 2WD CVTin Maple Ridge",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "LX CVTin Maple Ridge",
       "url": "https://willyml1979-dotcom.github.io/marv-jones-honda-mirror/new/2f84e8c82ffb.html",
       "source_url": "https://www.marvjoneshonda.com/new/inventory/2027-Honda-HR_V-id13798654.html",
       "dealer_url": "https://www.marvjoneshonda.com/new/inventory/2027-Honda-HR_V-id13798654.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2575,13 +2966,16 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Honda",
-      "model": "HR-V LX 2WD CVTin Maple Ridge",
-      "condition": "new"
+      "model": "HR-V",
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2027 Honda HR-V EX-L AWDin Maple Ridge",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "EX-L AWDin Maple Ridge",
       "url": "https://willyml1979-dotcom.github.io/marv-jones-honda-mirror/new/064cb970e585.html",
       "source_url": "https://www.marvjoneshonda.com/new/inventory/2027-Honda-HR_V-id13948731.html",
       "dealer_url": "https://www.marvjoneshonda.com/new/inventory/2027-Honda-HR_V-id13948731.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2590,13 +2984,16 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Honda",
-      "model": "HR-V EX-L AWDin Maple Ridge",
-      "condition": "new"
+      "model": "HR-V",
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2027 Honda HR-V Sport AWDin Maple Ridge",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Sport AWDin Maple Ridge",
       "url": "https://willyml1979-dotcom.github.io/marv-jones-honda-mirror/new/7e90ccfada12.html",
       "source_url": "https://www.marvjoneshonda.com/new/inventory/2027-Honda-HR_V-id14366148.html",
       "dealer_url": "https://www.marvjoneshonda.com/new/inventory/2027-Honda-HR_V-id14366148.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2605,13 +3002,16 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Honda",
-      "model": "HR-V Sport AWDin Maple Ridge",
-      "condition": "new"
+      "model": "HR-V",
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2027 Honda HR-V EX-L AWDin Maple Ridge",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "EX-L AWDin Maple Ridge",
       "url": "https://willyml1979-dotcom.github.io/marv-jones-honda-mirror/new/25740652da3f.html",
       "source_url": "https://www.marvjoneshonda.com/new/inventory/2027-Honda-HR_V-id14420782.html",
       "dealer_url": "https://www.marvjoneshonda.com/new/inventory/2027-Honda-HR_V-id14420782.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2620,8 +3020,10 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Honda",
-      "model": "HR-V EX-L AWDin Maple Ridge",
-      "condition": "new"
+      "model": "HR-V",
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     }
   ]
 }
