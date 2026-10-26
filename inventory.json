@@ -1,7 +1,7 @@
 {
   "dealership": "Marv Jones Honda",
-  "generated_at": "2026-10-26T01:33:05",
-  "vehicle_count": 136,
+  "generated_at": "2026-10-26T01:39:58",
+  "vehicle_count": 134,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -139,6 +139,13 @@
       "price_currency": "CAD"
     },
     {
+      "name": "New 2026 Honda Civic Hybrid Sport Touring eCVT Sedanin Maple Ridge",
+      "url": "https://willyml1979-dotcom.github.io/marv-jones-honda-mirror/new/e50f39353dc6.html",
+      "condition": "new",
+      "price": 39530.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "New 2026 Honda Civic Hybridin Maple Ridge",
       "vin": "2HGFE4F8XTH020600",
       "url": "https://willyml1979-dotcom.github.io/marv-jones-honda-mirror/new/958256226133.html",
@@ -166,6 +173,34 @@
       "url": "https://willyml1979-dotcom.github.io/marv-jones-honda-mirror/new/414462a36cc4.html",
       "condition": "new",
       "price": 38530.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Honda HR-V Sport AWD CVTin Maple Ridge",
+      "url": "https://willyml1979-dotcom.github.io/marv-jones-honda-mirror/new/3534e1d905bd.html",
+      "condition": "new",
+      "price": 38000.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Honda HR-V Sport AWD CVTin Maple Ridge",
+      "url": "https://willyml1979-dotcom.github.io/marv-jones-honda-mirror/new/594de3185c70.html",
+      "condition": "new",
+      "price": 38000.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Honda HR-V Sport AWD CVTin Maple Ridge",
+      "url": "https://willyml1979-dotcom.github.io/marv-jones-honda-mirror/new/182f4fca4761.html",
+      "condition": "new",
+      "price": 38000.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Honda HR-V EX-L AWD CVTin Maple Ridge",
+      "url": "https://willyml1979-dotcom.github.io/marv-jones-honda-mirror/new/ae34c62e78b6.html",
+      "condition": "new",
+      "price": 40800.0,
       "price_currency": "CAD"
     },
     {
@@ -222,6 +257,34 @@
       "url": "https://willyml1979-dotcom.github.io/marv-jones-honda-mirror/new/29234bc260ca.html",
       "condition": "new",
       "price": 40180.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Honda HR-V LX 2WD CVTin Maple Ridge",
+      "url": "https://willyml1979-dotcom.github.io/marv-jones-honda-mirror/new/2f84e8c82ffb.html",
+      "condition": "new",
+      "price": 32800.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Honda HR-V EX-L AWDin Maple Ridge",
+      "url": "https://willyml1979-dotcom.github.io/marv-jones-honda-mirror/new/064cb970e585.html",
+      "condition": "new",
+      "price": 41200.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Honda HR-V Sport AWDin Maple Ridge",
+      "url": "https://willyml1979-dotcom.github.io/marv-jones-honda-mirror/new/7e90ccfada12.html",
+      "condition": "new",
+      "price": 38000.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Honda HR-V EX-L AWDin Maple Ridge",
+      "url": "https://willyml1979-dotcom.github.io/marv-jones-honda-mirror/new/25740652da3f.html",
+      "condition": "new",
+      "price": 41200.0,
       "price_currency": "CAD"
     },
     {
@@ -1035,62 +1098,12 @@
     },
     {
       "name": "2026 Honda Civic Hybrid Sport Touring eCVT Sedanin Maple Ridge",
-      "url": "https://willyml1979-dotcom.github.io/marv-jones-honda-mirror/new/e50f39353dc6.html",
-      "year": 2026,
-      "make": "Honda",
-      "model": "Civic Hybrid",
-      "condition": "new",
-      "price": 39530.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Honda Civic Hybrid Sport Touring eCVT Sedanin Maple Ridge",
       "url": "https://willyml1979-dotcom.github.io/marv-jones-honda-mirror/new/aef210d9872f.html",
       "year": 2026,
       "make": "Honda",
       "model": "Civic Hybrid",
       "condition": "new",
       "price": 39530.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Honda HR-V Sport AWD CVTin Maple Ridge",
-      "url": "https://willyml1979-dotcom.github.io/marv-jones-honda-mirror/new/3534e1d905bd.html",
-      "year": 2026,
-      "make": "Honda",
-      "model": "HR-V",
-      "condition": "new",
-      "price": 38000.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Honda HR-V Sport AWD CVTin Maple Ridge",
-      "url": "https://willyml1979-dotcom.github.io/marv-jones-honda-mirror/new/594de3185c70.html",
-      "year": 2026,
-      "make": "Honda",
-      "model": "HR-V",
-      "condition": "new",
-      "price": 38000.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Honda HR-V Sport AWD CVTin Maple Ridge",
-      "url": "https://willyml1979-dotcom.github.io/marv-jones-honda-mirror/new/182f4fca4761.html",
-      "year": 2026,
-      "make": "Honda",
-      "model": "HR-V",
-      "condition": "new",
-      "price": 38000.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Honda HR-V EX-L AWD CVTin Maple Ridge",
-      "url": "https://willyml1979-dotcom.github.io/marv-jones-honda-mirror/new/ae34c62e78b6.html",
-      "year": 2026,
-      "make": "Honda",
-      "model": "HR-V",
-      "condition": "new",
-      "price": 40800.0,
       "price_currency": "CAD"
     },
     {
@@ -1245,26 +1258,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Honda Civic Hybrid Sport Touring CVTin Maple Ridge",
-      "url": "https://willyml1979-dotcom.github.io/marv-jones-honda-mirror/new/1417acf13bdf.html",
-      "year": 2027,
-      "make": "Honda",
-      "model": "Civic Hybrid",
-      "condition": "new",
-      "price": 40180.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Honda Civic Hybrid Sport CVTin Maple Ridge",
-      "url": "https://willyml1979-dotcom.github.io/marv-jones-honda-mirror/new/809ec56a1421.html",
-      "year": 2027,
-      "make": "Honda",
-      "model": "Civic Hybrid",
-      "condition": "new",
-      "price": 36680.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2027 Honda Civic Hybrid Sport CVTin Maple Ridge",
       "url": "https://willyml1979-dotcom.github.io/marv-jones-honda-mirror/new/aada1233ed3c.html",
       "year": 2027,
@@ -1302,46 +1295,6 @@
       "model": "Civic Hybrid",
       "condition": "new",
       "price": 36680.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Honda HR-V LX 2WD CVTin Maple Ridge",
-      "url": "https://willyml1979-dotcom.github.io/marv-jones-honda-mirror/new/2f84e8c82ffb.html",
-      "year": 2027,
-      "make": "Honda",
-      "model": "HR-V",
-      "condition": "new",
-      "price": 32800.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Honda HR-V EX-L AWDin Maple Ridge",
-      "url": "https://willyml1979-dotcom.github.io/marv-jones-honda-mirror/new/064cb970e585.html",
-      "year": 2027,
-      "make": "Honda",
-      "model": "HR-V",
-      "condition": "new",
-      "price": 41200.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Honda HR-V Sport AWDin Maple Ridge",
-      "url": "https://willyml1979-dotcom.github.io/marv-jones-honda-mirror/new/7e90ccfada12.html",
-      "year": 2027,
-      "make": "Honda",
-      "model": "HR-V",
-      "condition": "new",
-      "price": 38000.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Honda HR-V EX-L AWDin Maple Ridge",
-      "url": "https://willyml1979-dotcom.github.io/marv-jones-honda-mirror/new/25740652da3f.html",
-      "year": 2027,
-      "make": "Honda",
-      "model": "HR-V",
-      "condition": "new",
-      "price": 41200.0,
       "price_currency": "CAD"
     }
   ]
