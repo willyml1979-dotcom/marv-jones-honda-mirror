@@ -1,6 +1,6 @@
 {
   "dealership": "Marv Jones Honda",
-  "generated_at": "2026-10-26T01:39:58",
+  "generated_at": "2026-10-26T10:01:58",
   "vehicle_count": 134,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -470,27 +470,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2018 Subaru Forester 2.5i Limited CVT w/EyeSight Pkgin Maple Ridge",
-      "url": "https://willyml1979-dotcom.github.io/marv-jones-honda-mirror/used/4cd1e14f3174.html",
-      "year": 2018,
-      "make": "Subaru",
-      "model": "Forester",
-      "condition": "used",
-      "price": 20500.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2018 Subaru Forester ",
-      "vin": "JF2SJEWC1JH418804",
-      "url": "https://willyml1979-dotcom.github.io/marv-jones-honda-mirror/used/45c587895737.html",
-      "year": 2018,
-      "make": "Subaru",
-      "model": "Forester",
-      "condition": "used",
-      "price": 20500.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2018 Subaru Forester ",
       "vin": "JF2SJEWC1JH418804",
       "url": "https://willyml1979-dotcom.github.io/marv-jones-honda-mirror/new/45c587895737.html",
@@ -912,6 +891,27 @@
       "model": "CR-V",
       "condition": "new",
       "price": 35900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Honda CR-V Hybrid EX-L AWDin Maple Ridge",
+      "url": "https://willyml1979-dotcom.github.io/marv-jones-honda-mirror/used/1799add013c7.html",
+      "year": 2026,
+      "make": "Honda",
+      "model": "CR-V",
+      "condition": "used",
+      "price": 50800.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Honda CR-V Hybrid ",
+      "vin": "2HKRS6H77TH235685",
+      "url": "https://willyml1979-dotcom.github.io/marv-jones-honda-mirror/used/01210ba3f3e6.html",
+      "year": 2026,
+      "make": "Honda",
+      "model": "CR-V Hybrid",
+      "condition": "used",
+      "price": 50800.0,
       "price_currency": "CAD"
     },
     {
