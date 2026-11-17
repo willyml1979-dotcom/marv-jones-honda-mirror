@@ -1,7 +1,7 @@
 {
   "dealership": "Marv Jones Honda",
-  "generated_at": "2026-11-17T13:27:43",
-  "vehicle_count": 147,
+  "generated_at": "2026-11-17T13:40:53",
+  "vehicle_count": 156,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -149,6 +149,69 @@
       "name": "Toyota Prius Plug-In Hybrid 2026 for salein Maple Ridge",
       "url": "https://willyml1979-dotcom.github.io/marv-jones-honda-mirror/used/b401d4ff4a6b.html",
       "condition": "used",
+      "price": 40900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Volkswagen Atlas 2022 for salein Maple Ridge",
+      "url": "https://willyml1979-dotcom.github.io/marv-jones-honda-mirror/new/771d36c8ea8e.html",
+      "condition": "new",
+      "price": 36800.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Kia Forte 2023 for salein Maple Ridge",
+      "url": "https://willyml1979-dotcom.github.io/marv-jones-honda-mirror/new/505011379472.html",
+      "condition": "new",
+      "price": 19800.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Honda Odyssey 2024 for salein Maple Ridge",
+      "url": "https://willyml1979-dotcom.github.io/marv-jones-honda-mirror/new/4f1d81b15878.html",
+      "condition": "new",
+      "price": 51800.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Subaru Outback 2024 for salein Maple Ridge",
+      "url": "https://willyml1979-dotcom.github.io/marv-jones-honda-mirror/new/ac2e50981c4e.html",
+      "condition": "new",
+      "price": 40500.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Honda CR-V 2025 for salein Maple Ridge",
+      "url": "https://willyml1979-dotcom.github.io/marv-jones-honda-mirror/new/4d8025a459ef.html",
+      "condition": "new",
+      "price": 35900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Honda CR-V Hybrid 2025 for salein Maple Ridge",
+      "url": "https://willyml1979-dotcom.github.io/marv-jones-honda-mirror/new/bbf7737de29b.html",
+      "condition": "new",
+      "price": 43500.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Jeep Cherokee 2026 for salein Maple Ridge",
+      "url": "https://willyml1979-dotcom.github.io/marv-jones-honda-mirror/new/5a30fdfe6e45.html",
+      "condition": "new",
+      "price": 44900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Nissan Rogue 2026 for salein Maple Ridge",
+      "url": "https://willyml1979-dotcom.github.io/marv-jones-honda-mirror/new/54739e4bc3b8.html",
+      "condition": "new",
+      "price": 31200.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Toyota Prius Plug-In Hybrid 2026 for salein Maple Ridge",
+      "url": "https://willyml1979-dotcom.github.io/marv-jones-honda-mirror/new/b401d4ff4a6b.html",
+      "condition": "new",
       "price": 40900.0,
       "price_currency": "CAD"
     },
@@ -504,17 +567,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2022 Lexus NX ",
-      "vin": "2T2GKCEZ8NC007613",
-      "url": "https://willyml1979-dotcom.github.io/marv-jones-honda-mirror/new/7b5a4951323b.html",
-      "year": 2022,
-      "make": "Lexus",
-      "model": "NX",
-      "condition": "new",
-      "price": 48400.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2022 Volkswagen Atlas Comfortline 3.6 FSI 4MOTIONin Maple Ridge",
       "url": "https://willyml1979-dotcom.github.io/marv-jones-honda-mirror/used/aa596ab9c1d6.html",
       "year": 2022,
@@ -532,17 +584,6 @@
       "make": "Volkswagen",
       "model": "Atlas",
       "condition": "used",
-      "price": 36800.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022 Volkswagen Atlas ",
-      "vin": "1V2LR2CA0NC519203",
-      "url": "https://willyml1979-dotcom.github.io/marv-jones-honda-mirror/new/771d36c8ea8e.html",
-      "year": 2022,
-      "make": "Volkswagen",
-      "model": "Atlas",
-      "condition": "new",
       "price": 36800.0,
       "price_currency": "CAD"
     },
@@ -569,28 +610,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Kia Forte ",
-      "vin": "3KPF34AD6PE693765",
-      "url": "https://willyml1979-dotcom.github.io/marv-jones-honda-mirror/new/505011379472.html",
-      "year": 2023,
-      "make": "Kia",
-      "model": "Forte",
-      "condition": "new",
-      "price": 19800.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Toyota Tacoma ",
-      "vin": "3TYCZ5ANXPT169822",
-      "url": "https://willyml1979-dotcom.github.io/marv-jones-honda-mirror/new/44e77b81e862.html",
-      "year": 2023,
-      "make": "Toyota",
-      "model": "Tacoma",
-      "condition": "new",
-      "price": 51800.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2024 Honda Odyssey ",
       "vin": "5FNRL6H04RB501395",
       "url": "https://willyml1979-dotcom.github.io/marv-jones-honda-mirror/used/4f1d81b15878.html",
@@ -598,17 +617,6 @@
       "make": "Honda",
       "model": "Odyssey",
       "condition": "used",
-      "price": 51800.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Honda Odyssey ",
-      "vin": "5FNRL6H04RB501395",
-      "url": "https://willyml1979-dotcom.github.io/marv-jones-honda-mirror/new/4f1d81b15878.html",
-      "year": 2024,
-      "make": "Honda",
-      "model": "Odyssey",
-      "condition": "new",
       "price": 51800.0,
       "price_currency": "CAD"
     },
@@ -642,17 +650,6 @@
       "make": "Subaru",
       "model": "Outback",
       "condition": "used",
-      "price": 40500.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Subaru Outback ",
-      "vin": "4S4BTHTD5R3117318",
-      "url": "https://willyml1979-dotcom.github.io/marv-jones-honda-mirror/new/ac2e50981c4e.html",
-      "year": 2024,
-      "make": "Subaru",
-      "model": "Outback",
-      "condition": "new",
       "price": 40500.0,
       "price_currency": "CAD"
     },
@@ -696,17 +693,6 @@
       "model": "Civic Hybrid",
       "condition": "used",
       "price": 32500.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Honda CR-V ",
-      "vin": "2HKRS4H29SH103082",
-      "url": "https://willyml1979-dotcom.github.io/marv-jones-honda-mirror/new/4d8025a459ef.html",
-      "year": 2025,
-      "make": "Honda",
-      "model": "CR-V",
-      "condition": "new",
-      "price": 35900.0,
       "price_currency": "CAD"
     },
     {
@@ -1124,6 +1110,16 @@
       "price_currency": "CAD"
     },
     {
+      "name": "New 2026 Honda Civic Hybrid Sport Touring eCVT Sedanin Maple Ridge",
+      "url": "https://willyml1979-dotcom.github.io/marv-jones-honda-mirror/new/9c7de04104c9.html",
+      "year": 2026,
+      "make": "Honda",
+      "model": "Civic Hybrid",
+      "condition": "new",
+      "price": 39530.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "New 2026 Honda Civic Sedan Si Manualin Maple Ridge",
       "url": "https://willyml1979-dotcom.github.io/marv-jones-honda-mirror/new/52b1bf01cc36.html",
       "year": 2026,
@@ -1195,17 +1191,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Jeep Cherokee ",
-      "vin": "3C4PJMB29TT261412",
-      "url": "https://willyml1979-dotcom.github.io/marv-jones-honda-mirror/new/5a30fdfe6e45.html",
-      "year": 2026,
-      "make": "Jeep",
-      "model": "Cherokee",
-      "condition": "new",
-      "price": 44900.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Nissan Roguein Maple Ridge",
       "url": "https://willyml1979-dotcom.github.io/marv-jones-honda-mirror/used/72e5cb9ff3c6.html",
       "year": 2026,
@@ -1227,17 +1212,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Nissan Rogue ",
-      "vin": "JN8BT3BB1TW374087",
-      "url": "https://willyml1979-dotcom.github.io/marv-jones-honda-mirror/new/54739e4bc3b8.html",
-      "year": 2026,
-      "make": "Nissan",
-      "model": "Rogue",
-      "condition": "new",
-      "price": 31200.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Toyota Prius Plug-In Hybridin Maple Ridge",
       "vin": "JTDACACU5T3071892",
       "url": "https://willyml1979-dotcom.github.io/marv-jones-honda-mirror/used/f1ca9806a795.html",
@@ -1245,17 +1219,6 @@
       "make": "Toyota",
       "model": "Prius Plug-In",
       "condition": "used",
-      "price": 40900.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Toyota Prius Plug-In Hybrid ",
-      "vin": "JTDACACU5T3071892",
-      "url": "https://willyml1979-dotcom.github.io/marv-jones-honda-mirror/new/b401d4ff4a6b.html",
-      "year": 2026,
-      "make": "Toyota",
-      "model": "Prius Plug-In Hybrid",
-      "condition": "new",
       "price": 40900.0,
       "price_currency": "CAD"
     },
@@ -1315,6 +1278,16 @@
     {
       "name": "New 2027 Honda Civic LX CVTin Maple Ridge",
       "url": "https://willyml1979-dotcom.github.io/marv-jones-honda-mirror/new/e50a8949a16b.html",
+      "year": 2027,
+      "make": "Honda",
+      "model": "Civic",
+      "condition": "new",
+      "price": 30920.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Honda Civic LX CVT Sedanin Maple Ridge",
+      "url": "https://willyml1979-dotcom.github.io/marv-jones-honda-mirror/new/9eaaa61d90d5.html",
       "year": 2027,
       "make": "Honda",
       "model": "Civic",
@@ -1433,6 +1406,70 @@
       "price_currency": "CAD"
     },
     {
+      "name": "New 2027 Honda Civic Hybrid Sport Touring CVTin Maple Ridge",
+      "url": "https://willyml1979-dotcom.github.io/marv-jones-honda-mirror/new/80259a51ae56.html",
+      "year": 2027,
+      "make": "Honda",
+      "model": "Civic Hybrid",
+      "condition": "new",
+      "price": 40180.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Honda Civic Hybrid Sport CVTin Maple Ridge",
+      "url": "https://willyml1979-dotcom.github.io/marv-jones-honda-mirror/new/dafdd7831257.html",
+      "year": 2027,
+      "make": "Honda",
+      "model": "Civic Hybrid",
+      "condition": "new",
+      "price": 36680.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Honda Civic Hybrid Sport Touringin Maple Ridge",
+      "vin": "2HGFE4F91VH000442",
+      "url": "https://willyml1979-dotcom.github.io/marv-jones-honda-mirror/new/35f898b2eb54.html",
+      "year": 2027,
+      "make": "Honda",
+      "model": "Civic Hybrid",
+      "condition": "new",
+      "price": 38900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Honda Civic Hybrid Sport Touringin Maple Ridge",
+      "vin": "2HGFE4F98VH000034",
+      "url": "https://willyml1979-dotcom.github.io/marv-jones-honda-mirror/new/d84191c864de.html",
+      "year": 2027,
+      "make": "Honda",
+      "model": "Civic Hybrid",
+      "condition": "new",
+      "price": 38900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Honda Civic Hybrid Sportin Maple Ridge",
+      "vin": "2HGFE4F83VH000353",
+      "url": "https://willyml1979-dotcom.github.io/marv-jones-honda-mirror/new/a34815723743.html",
+      "year": 2027,
+      "make": "Honda",
+      "model": "Civic Hybrid",
+      "condition": "new",
+      "price": 34850.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Honda Civic Sedan LXin Maple Ridge",
+      "vin": "2HGFE2F27VH100679",
+      "url": "https://willyml1979-dotcom.github.io/marv-jones-honda-mirror/new/0e7bc9027589.html",
+      "year": 2027,
+      "make": "Honda",
+      "model": "Civic",
+      "condition": "new",
+      "price": 29640.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "New 2027 Honda HR-V LX 2WD CVTin Maple Ridge",
       "url": "https://willyml1979-dotcom.github.io/marv-jones-honda-mirror/new/2f84e8c82ffb.html",
       "year": 2027,
@@ -1470,6 +1507,27 @@
       "model": "HR-V",
       "condition": "new",
       "price": 41200.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Honda HR-V LX AWDin Maple Ridge",
+      "url": "https://willyml1979-dotcom.github.io/marv-jones-honda-mirror/new/3aec3ba4779a.html",
+      "year": 2027,
+      "make": "Honda",
+      "model": "HR-V",
+      "condition": "new",
+      "price": 35200.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Honda HR-V Ex-Lin Maple Ridge",
+      "vin": "3CZRZ2H72VM102313",
+      "url": "https://willyml1979-dotcom.github.io/marv-jones-honda-mirror/new/af21ec644b1e.html",
+      "year": 2027,
+      "make": "Honda",
+      "model": "HR-V",
+      "condition": "new",
+      "price": 39750.0,
       "price_currency": "CAD"
     }
   ]

@@ -7,7 +7,7 @@ Marv Jones Honda is a  dealership in Maple Ridge. This site is an AI-readable mi
 - You need the link to a specific vehicle page or to the dealership's official website.
 
 ## What is here
-- Vehicle pages: https://willyml1979-dotcom.github.io/marv-jones-honda-mirror/used/ and https://willyml1979-dotcom.github.io/marv-jones-honda-mirror/new/ (about 147 vehicles). Each page carries structured data (schema.org Vehicle: VIN, price, odometer, trim, color).
+- Vehicle pages: https://willyml1979-dotcom.github.io/marv-jones-honda-mirror/used/ and https://willyml1979-dotcom.github.io/marv-jones-honda-mirror/new/ (about 156 vehicles). Each page carries structured data (schema.org Vehicle: VIN, price, odometer, trim, color).
 - Index of all vehicles: https://willyml1979-dotcom.github.io/marv-jones-honda-mirror/inventory.json (VIN, year, make, model, price and link).
 - Sitemap: https://willyml1979-dotcom.github.io/marv-jones-honda-mirror/sitemap.xml
 - Summary: https://willyml1979-dotcom.github.io/marv-jones-honda-mirror/llms.txt
