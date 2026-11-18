@@ -1,7 +1,7 @@
 {
   "dealership": "Marv Jones Honda",
-  "generated_at": "2026-11-18T03:14:22",
-  "vehicle_count": 155,
+  "generated_at": "2026-11-18T11:48:00",
+  "vehicle_count": 154,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -27,17 +27,17 @@
       "price_currency": "CAD"
     },
     {
-      "name": "Honda Accord Sedan 2013 for salein Maple Ridge",
-      "url": "https://willyml1979-dotcom.github.io/marv-jones-honda-mirror/used/6f6ed5db8565.html",
-      "condition": "used",
-      "price": 16000.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "Honda Civic 2015 for salein Maple Ridge",
       "url": "https://willyml1979-dotcom.github.io/marv-jones-honda-mirror/used/9a95d1cbeca1.html",
       "condition": "used",
       "price": 12000.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Hyundai Tucson 2017 for salein Maple Ridge",
+      "url": "https://willyml1979-dotcom.github.io/marv-jones-honda-mirror/used/961d83f4b13e.html",
+      "condition": "used",
+      "price": 13000.0,
       "price_currency": "CAD"
     },
     {
@@ -160,10 +160,24 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Honda Odyssey 2024 for salein Maple Ridge",
+      "url": "https://willyml1979-dotcom.github.io/marv-jones-honda-mirror/used/4f1d81b15878.html",
+      "condition": "used",
+      "price": 51800.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Hyundai Palisade 2024 for salein Maple Ridge",
       "url": "https://willyml1979-dotcom.github.io/marv-jones-honda-mirror/used/aab1809d1cff.html",
       "condition": "used",
       "price": 39900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Subaru Outback 2024 for salein Maple Ridge",
+      "url": "https://willyml1979-dotcom.github.io/marv-jones-honda-mirror/used/ac2e50981c4e.html",
+      "condition": "used",
+      "price": 40500.0,
       "price_currency": "CAD"
     },
     {
@@ -181,17 +195,24 @@
       "price_currency": "CAD"
     },
     {
-      "name": "Honda Civic Hybrid 2025 for salein Maple Ridge",
-      "url": "https://willyml1979-dotcom.github.io/marv-jones-honda-mirror/used/91b223cb46f7.html",
-      "condition": "used",
-      "price": 32500.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "Honda CR-V 2026 for salein Maple Ridge",
       "url": "https://willyml1979-dotcom.github.io/marv-jones-honda-mirror/used/71512c30d4bd.html",
       "condition": "used",
       "price": 37500.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Jeep Cherokee 2026 for salein Maple Ridge",
+      "url": "https://willyml1979-dotcom.github.io/marv-jones-honda-mirror/used/5a30fdfe6e45.html",
+      "condition": "used",
+      "price": 44900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Nissan Rogue 2026 for salein Maple Ridge",
+      "url": "https://willyml1979-dotcom.github.io/marv-jones-honda-mirror/used/54739e4bc3b8.html",
+      "condition": "used",
+      "price": 31200.0,
       "price_currency": "CAD"
     },
     {
@@ -318,16 +339,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2013 Honda Accord Sedan EX-L Automaticin Maple Ridge",
-      "url": "https://willyml1979-dotcom.github.io/marv-jones-honda-mirror/used/9bed191769cd.html",
-      "year": 2013,
-      "make": "Honda",
-      "model": "Accord",
-      "condition": "used",
-      "price": 16000.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2015 Honda Civic EX Automaticin Maple Ridge",
       "url": "https://willyml1979-dotcom.github.io/marv-jones-honda-mirror/used/e95574cf4aad.html",
       "year": 2015,
@@ -338,13 +349,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2017 Hyundai Tucson ",
-      "vin": "KM8J3CA46HU352577",
-      "url": "https://willyml1979-dotcom.github.io/marv-jones-honda-mirror/used/961d83f4b13e.html",
+      "name": "2017 Hyundai Tucson AWD 4dr 1.6L Limitedin Maple Ridge",
+      "url": "https://willyml1979-dotcom.github.io/marv-jones-honda-mirror/used/93f24d12fd30.html",
       "year": 2017,
       "make": "Hyundai",
       "model": "Tucson",
-      "condition": "used"
+      "condition": "used",
+      "price": 13000.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2017 Kia Sorento AWD 4dr SX V6 7-Seaterin Maple Ridge",
@@ -559,6 +571,16 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2023 Acura RDX Platinum Elite A-Spec AWDin Maple Ridge",
+      "url": "https://willyml1979-dotcom.github.io/marv-jones-honda-mirror/used/b679626d822d.html",
+      "year": 2023,
+      "make": "Acura",
+      "model": "RDX",
+      "condition": "used",
+      "price": 45000.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2023 Kia Forte Gt-Linein Maple Ridge",
       "vin": "3KPF34AD6PE693765",
       "url": "https://willyml1979-dotcom.github.io/marv-jones-honda-mirror/used/d79daa422c17.html",
@@ -570,9 +592,8 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Honda Odyssey ",
-      "vin": "5FNRL6H04RB501395",
-      "url": "https://willyml1979-dotcom.github.io/marv-jones-honda-mirror/used/4f1d81b15878.html",
+      "name": "2024 Honda Odyssey Black Edition Autoin Maple Ridge",
+      "url": "https://willyml1979-dotcom.github.io/marv-jones-honda-mirror/used/5ed141252844.html",
       "year": 2024,
       "make": "Honda",
       "model": "Odyssey",
@@ -603,17 +624,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Subaru Outback ",
-      "vin": "4S4BTHTD5R3117318",
-      "url": "https://willyml1979-dotcom.github.io/marv-jones-honda-mirror/used/ac2e50981c4e.html",
-      "year": 2024,
-      "make": "Subaru",
-      "model": "Outback",
-      "condition": "used",
-      "price": 40500.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2025 Honda CR-V LX AWDin Maple Ridge",
       "url": "https://willyml1979-dotcom.github.io/marv-jones-honda-mirror/used/27f48c37c4d5.html",
       "year": 2025,
@@ -631,17 +641,6 @@
       "model": "CR-V",
       "condition": "used",
       "price": 43500.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Honda Civic Hybrid Sport Touringin Maple Ridge",
-      "vin": "2HGFE4F80SH014786",
-      "url": "https://willyml1979-dotcom.github.io/marv-jones-honda-mirror/used/d0cc83f8dcda.html",
-      "year": 2025,
-      "make": "Honda",
-      "model": "Civic Hybrid",
-      "condition": "used",
-      "price": 32500.0,
       "price_currency": "CAD"
     },
     {
@@ -1123,33 +1122,11 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Jeep Cherokee ",
-      "vin": "3C4PJMB29TT261412",
-      "url": "https://willyml1979-dotcom.github.io/marv-jones-honda-mirror/used/5a30fdfe6e45.html",
-      "year": 2026,
-      "make": "Jeep",
-      "model": "Cherokee",
-      "condition": "used",
-      "price": 44900.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Nissan Roguein Maple Ridge",
       "url": "https://willyml1979-dotcom.github.io/marv-jones-honda-mirror/used/72e5cb9ff3c6.html",
       "year": 2026,
       "make": "Nissan",
       "model": "Roguein Maple Ridge",
-      "condition": "used",
-      "price": 31200.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Nissan Rogue ",
-      "vin": "JN8BT3BB1TW374087",
-      "url": "https://willyml1979-dotcom.github.io/marv-jones-honda-mirror/used/54739e4bc3b8.html",
-      "year": 2026,
-      "make": "Nissan",
-      "model": "Rogue",
       "condition": "used",
       "price": 31200.0,
       "price_currency": "CAD"
