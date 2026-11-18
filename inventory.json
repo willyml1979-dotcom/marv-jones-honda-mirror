@@ -1,7 +1,7 @@
 {
   "dealership": "Marv Jones Honda",
-  "generated_at": "2026-11-18T11:48:00",
-  "vehicle_count": 154,
+  "generated_at": "2026-11-18T11:51:59",
+  "vehicle_count": 153,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -724,25 +724,23 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Honda Civic Hybrid ",
-      "vin": "2HGFE4F80TH008746",
+      "name": "2026 Honda Civic Sedan Hybridin Maple Ridge",
       "url": "https://willyml1979-dotcom.github.io/marv-jones-honda-mirror/new/b4df05874100.html",
       "year": 2026,
       "make": "Honda",
-      "model": "Civic Hybrid",
+      "model": "Civic",
       "condition": "new",
-      "price": 39530.0,
+      "price": 36165.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Honda Civic Sedan Si ",
-      "vin": "2HGFE1E5XTH081032",
+      "name": "2026 Honda Civic Si Sedanin Maple Ridge",
       "url": "https://willyml1979-dotcom.github.io/marv-jones-honda-mirror/new/7d7e08244ec6.html",
       "year": 2026,
       "make": "Honda",
       "model": "Civic",
       "condition": "new",
-      "price": 38530.0,
+      "price": 38665.0,
       "price_currency": "CAD"
     },
     {
@@ -766,14 +764,13 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Honda Odyssey ",
-      "vin": "5FNRL6H75TB500941",
+      "name": "2026 Honda Odysseyin Maple Ridge",
       "url": "https://willyml1979-dotcom.github.io/marv-jones-honda-mirror/new/10ffb570c00e.html",
       "year": 2026,
       "make": "Honda",
-      "model": "Odyssey",
+      "model": "Odysseyin Maple Ridge",
       "condition": "new",
-      "price": 56520.0,
+      "price": 53655.0,
       "price_currency": "CAD"
     },
     {
@@ -787,25 +784,23 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Honda Pilot ",
-      "vin": "5FNYG1H64TB505462",
+      "name": "2026 Honda Pilotin Maple Ridge",
       "url": "https://willyml1979-dotcom.github.io/marv-jones-honda-mirror/new/040d02af4a1c.html",
       "year": 2026,
       "make": "Honda",
-      "model": "Pilot",
+      "model": "Pilotin Maple Ridge",
       "condition": "new",
-      "price": 63750.0,
+      "price": 57785.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Honda Prelude ",
-      "vin": "JHMBF1D65TX800024",
+      "name": "2026 Honda Preludein Maple Ridge",
       "url": "https://willyml1979-dotcom.github.io/marv-jones-honda-mirror/new/ffe5cf2ec5f2.html",
       "year": 2026,
       "make": "Honda",
-      "model": "Prelude",
+      "model": "Preludein Maple Ridge",
       "condition": "new",
-      "price": 51920.0,
+      "price": 52055.0,
       "price_currency": "CAD"
     },
     {
@@ -1048,16 +1043,6 @@
       "model": "Civic Hybrid",
       "condition": "new",
       "price": 39530.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Honda Civic Sedan Si Manualin Maple Ridge",
-      "url": "https://willyml1979-dotcom.github.io/marv-jones-honda-mirror/new/52b1bf01cc36.html",
-      "year": 2026,
-      "make": "Honda",
-      "model": "Civic",
-      "condition": "new",
-      "price": 38530.0,
       "price_currency": "CAD"
     },
     {
