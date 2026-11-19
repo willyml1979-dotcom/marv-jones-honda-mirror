@@ -1,7 +1,7 @@
 {
   "dealership": "Marv Jones Honda",
-  "generated_at": "2026-11-18T11:51:59",
-  "vehicle_count": 153,
+  "generated_at": "2026-11-18T22:22:48",
+  "vehicle_count": 152,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -589,16 +589,6 @@
       "model": "Forte",
       "condition": "used",
       "price": 19800.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Honda Odyssey Black Edition Autoin Maple Ridge",
-      "url": "https://willyml1979-dotcom.github.io/marv-jones-honda-mirror/used/5ed141252844.html",
-      "year": 2024,
-      "make": "Honda",
-      "model": "Odyssey",
-      "condition": "used",
-      "price": 51800.0,
       "price_currency": "CAD"
     },
     {
